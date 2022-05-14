@@ -1,0 +1,182 @@
+.width-5
+{
+    width: 50%;
+}
+.width-6
+{
+    width: 60%;
+}
+.width-7
+{
+    width: 70%;
+}
+.width-8
+{
+    width: 80%;
+}
+.width-9
+{
+    width: 90%;
+}
+.width-10
+{
+    width: 100%;
+}
+
+
+.text-center
+{
+    text-align: center;
+}
+.bg-white
+{
+    background-color: #fff;
+}
+.bg-black
+{
+    background-color: #000;
+}
+.bg-red
+{
+    background-color: red;
+}
+.bg-green
+{
+    background-color: green;
+}
+.bg-lmgreen
+{
+    background-color: lime;
+}
+.bg-purple
+{
+    background-color: purple;
+}
+.bg-blue
+{
+    background-color: blue;
+}
+.bg-ind
+{
+    background-color: indigo;
+}
+.font-white
+{
+    color:#fff;
+}
+.mx-30
+{
+    margin: 30px auto;
+}
+.mx-auto-60
+{
+    margin: 60px auto;
+}
+.flex
+{
+    display: flex;
+}
+.flex-col
+{
+    flex-direction: column;
+}
+.flex-row
+{
+    flex-direction: row;
+}
+
+.item-center
+{
+    align-items: center;
+}
+/*Border*/
+.bord-none
+{
+    border: none;
+}
+.bord-1
+{
+    border: 1px;
+}
+.bord-2
+{
+    border: 2px;
+}
+.bord-3
+{
+    border: 3px;
+}
+.bord-4
+{
+    border: 4px;
+}
+.bord-5
+{
+    border: 5px;
+}
+
+.bord-black
+{
+    border: black;
+}
+.bord-white
+{
+    border: white;
+}
+.bord-red
+{
+    border: red;
+}
+.bord-blue
+{
+    border: blue;
+}
+
+.bord-solid
+{
+    border: solid;
+}
+.bord-dot
+{
+    border: dotted;
+}
+
+/*Border Radius*/
+
+.bord-rad-9p
+{
+    border-radius: 9px;
+}
+.bord-rad-10p
+{
+    border-radius: 10px;
+}
+.bord-rad-15p
+{
+    border-radius: 15px;
+}
+.bord-rad-20p
+{
+    border-radius: 20px;
+}
+.bord-rad-circ
+{
+    border-radius: 100%;
+}
+.underline
+{
+    text-decoration: underline;
+}
+.box-shad
+{
+    box-shadow: 5px 5px 10px #cccaca,-5px -5px 10px #cccaca;
+}
+
+.box-shad-p
+{
+    box-shadow: 5px 5px 10px #cccaca;
+}
+.box-shad-n
+{
+    box-shadow: -5px -5px 10px #cccaca;
+}
